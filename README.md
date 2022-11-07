@@ -9,3 +9,7 @@ To monitor the performance and load times on a site the config.json file require
 **Running the code**
 
 To run the report, open a terminal inside the project and type Node Main.js
+
+**Continuous monitor**
+
+This code can be hosted on a Devops pipeline and scheduled to ran as and when. This is one approach to continuously monitoring your website.

@@ -8,4 +8,4 @@ To monitor the performance and load times on a site the config.json file require
 
 **Running the code**
 
-To run the report, open a terminal and type Node Main.js
+To run the report, open a terminal inside the project and type Node Main.js
